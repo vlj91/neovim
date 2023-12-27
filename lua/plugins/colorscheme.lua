@@ -1,10 +1,10 @@
 return {
-  { "NLKNguyen/papercolor-theme" },
+  { "Mofiqul/vscode.nvim" },
 
   {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "papercolor",
+      colorscheme = "vscode",
     },
   },
 }

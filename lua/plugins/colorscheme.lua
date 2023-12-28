@@ -1,12 +1,11 @@
 return {
-  { "dracula/vim" },
-  { "bluz71/vim-nightfly-colors" },
   { "nlknguyen/papercolor-theme" },
+  { "catppuccin/nvim" },
 
   {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "papercolor",
+      colorscheme = "catppuccin-mocha",
     },
   },
 }
